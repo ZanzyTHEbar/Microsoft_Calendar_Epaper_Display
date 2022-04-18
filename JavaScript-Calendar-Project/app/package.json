@@ -17,7 +17,7 @@
     "cors": "^2.8.5",
     "date-fns": "^2.23.0",
     "date-fns-tz": "^1.1.6",
-    "debug": "^4.3.1",
+    "debug": "^4.3.4",
     "dlna-browser-utils": "git+https://github.com/mhdawson/dlna-browser-utils.git",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
