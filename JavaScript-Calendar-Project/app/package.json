@@ -39,7 +39,7 @@
     "postprocessing": "^6.26.3",
     "request": "^2.88.2",
     "sequelize": "^6.17.0",
-    "sqlite3": "^5.0.2",
+    "sqlite3": "^5.0.3",
     "three": "^0.139.2",
     "to": "^0.2.9",
     "update": "^0.7.4",
