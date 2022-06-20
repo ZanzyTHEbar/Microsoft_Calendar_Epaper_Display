@@ -38,7 +38,7 @@
     "nodecast-js": "^1.0.3",
     "postprocessing": "^6.26.3",
     "request": "^2.88.2",
-    "sequelize": "^6.17.0",
+    "sequelize": "^6.19.1",
     "sqlite3": "^5.0.2",
     "three": "^0.139.2",
     "to": "^0.2.9",
